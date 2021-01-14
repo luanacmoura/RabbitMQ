@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YoKlnlXk9Vptnhc5snQ2TIcx61jxPTM3EK+r60whv5swDj6QzJyq6qSoTmH3lTaXz3cKpunv6fEkqjBl4k9gAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luana\\source\\repos\\Producer\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luana\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\luana\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\luana\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
